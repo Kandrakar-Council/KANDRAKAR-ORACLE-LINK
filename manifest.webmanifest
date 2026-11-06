@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "KANDRAKAR — ORACLE LINK",
+  "short_name": "ORACLE LINK",
+  "description": "Prayers, meditations, teachings and the world of Kandrakar.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e7f5ff",
+  "theme_color": "#dff1ff",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
